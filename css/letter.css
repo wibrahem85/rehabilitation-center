@@ -1,0 +1,16 @@
+div.img{
+    background: url('../images/woman.jpg');
+}
+div.txt{
+    padding: 10px 90px 50px;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: justify;
+    
+}
+div.txt p:last-child{
+    margin-top: 20px;
+    color:#97cc46;
+    font-style: italic;
+    font-size: 20px;
+}

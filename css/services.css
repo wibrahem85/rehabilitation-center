@@ -1,0 +1,31 @@
+div.right-header{
+    background:#f1f1f1;
+    clear:right;
+    height: 63px;
+    padding: 10px 20px 30px 0
+}
+ div.right-header h2{
+    color:#97cc46;
+     float:right;
+       font-style: italic;
+       font-weight: bold;
+}
+.pics .card:hover{
+    opacity:.4
+}
+.footer {
+    clear:both;
+    color:#97cc46;
+    background:#f1f1f1; 
+    padding: 10px 25px 10px 25px;
+    height: 50px;
+}
+.footer .right{
+    float:right;
+}
+.footer .left{
+    float:left;
+}
+.footer .left i{
+    padding: 3px;
+}

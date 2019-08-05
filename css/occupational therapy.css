@@ -1,0 +1,12 @@
+div.img{
+    background: url('../images/occupational.jpg'); 
+}
+div.txt{
+        padding: 5px 100px;
+}
+div.txt2{
+    padding: 0 100px 60px;
+}
+ul.final-ul {
+    margin-right: -130px;
+}

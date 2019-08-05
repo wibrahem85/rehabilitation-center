@@ -1,0 +1,24 @@
+div.img{
+    background: url(../images/bed.jpg);
+    margin-bottom: 50px;
+}
+div.box{
+    border: 1px solid #97cc46;
+    padding: 25px 15px 80px;
+    margin-bottom: 10px;
+    width: 99%;
+    height: 350px;
+    
+}
+div.box p:first-child{
+    color: #97cc46;
+    font-weight:bolder;
+    padding-bottom: 10px;
+}
+div.box p:last-child{
+    font-weight: 500;
+    font-size: 18px;
+}
+div.special{
+    padding: 0 10px;
+}

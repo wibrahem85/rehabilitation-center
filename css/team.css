@@ -1,0 +1,10 @@
+div.cards{
+    padding: 30px 20px  50px;
+}
+div.cards .card{
+    box-shadow: 2px -2px 1px 1px #ddd;
+    margin-bottom: 35px;
+}
+div.cards .card-body .card-title{
+    color:#97cc46;
+}

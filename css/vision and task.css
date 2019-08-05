@@ -1,0 +1,73 @@
+body{
+    width:80%;
+    margin: auto;
+}
+nav div.menu ul li.special{
+    margin-left: -40%;
+}
+div.right-header{
+    background:#f1f1f1;
+    clear:right;
+    height: 63px;
+    padding: 10px 20px 30px 0
+}
+ div.right-header h2{
+    color:#97cc46;
+     float:right;
+       font-style: italic;
+       font-weight: bold;
+}
+div.img{
+    background: url("../images/ARC_79052.jpg");
+    height:500px;
+    width: 100%;
+    margin: 20px auto 30px;
+   
+}
+div.parent{
+    width:100%;
+    height:250px;
+    clear:right;   
+}
+div.text{
+    width: 48%;
+    float:right;
+    border: 1px solid #97cc46;
+    border-radius: 12px;
+    height: 250px;
+    padding: 10px 20px 50px 20px;
+    text-align: justify;
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 18px;
+}
+div.text.first{
+  margin-left: 4%
+}
+div.text p:first-child{
+    text-align: center;
+    color: var(--maincolor);
+    font-weight: bold;
+    border-bottom: 6px solid var(--maincolor);
+    width: 15%;
+    margin: auto;
+    font-size: 35px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+.footer {
+    clear:both;
+    color:#97cc46;
+    background:#f1f1f1; 
+    padding: 10px 25px 10px 25px;
+    height: 50px;
+}
+.footer .right{
+    float:right;
+}
+.footer .left{
+    float:left;
+}
+.footer .left i{
+    padding: 3px;
+}
