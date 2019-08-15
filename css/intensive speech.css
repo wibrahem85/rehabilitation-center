@@ -1,0 +1,14 @@
+div.img{
+    background: url('../images/intensive%20speech.jpg');
+}
+div.txt p:first-child{
+    font-weight: 400;
+    font-size: 18px;
+}
+h5.text-right{
+        padding-right: 9rem;
+}
+ul.final-ul li{
+    font-size: 17px;
+    text-align: justify
+}

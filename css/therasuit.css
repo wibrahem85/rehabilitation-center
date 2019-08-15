@@ -1,0 +1,46 @@
+div.img{
+    background: url('../images/suit1.jpg');
+}
+div.txt div.border-div {
+    
+    border-bottom: 4px solid #97cc46!important;
+    width:65%;
+    margin: 0 auto;
+  
+}
+div.txt div.border-div .heading{
+    color:#97cc46;
+}
+div.txt p:first-of-type{
+    color:black;
+    font-style: normal;
+}
+div.txt ul{
+    display: inline-block;
+    width:40%;
+    margin-right: 1%;
+ 
+}
+div.txt ul li{
+    font-size: 17px;
+    font-weight: 400;
+}
+div.txt ul:first-of-type{
+    margin-left: 17%;
+}
+div.txt2 div.border-div {
+    
+    border-bottom: 4px solid #97cc46!important;
+    width:58%;
+    margin: 0 auto;
+  
+}
+div.txt2 div.border-div .heading{
+    color:#97cc46;
+}
+div.txt2 p.text-right{
+    font-size: 17.3px;
+    padding: 30px 110px;
+    
+
+}
